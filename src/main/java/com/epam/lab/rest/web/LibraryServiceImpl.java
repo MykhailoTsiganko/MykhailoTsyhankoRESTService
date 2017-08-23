@@ -5,7 +5,6 @@ import com.epam.lab.rest.model.Book;
 
 import com.epam.lab.rest.bo.BookBO;
 
-
 import javax.ws.rs.core.HttpHeaders;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
