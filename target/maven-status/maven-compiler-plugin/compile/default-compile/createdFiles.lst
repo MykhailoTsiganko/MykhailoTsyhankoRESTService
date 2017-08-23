@@ -1,2 +1,6 @@
-com\epam\lab\rest\web\JsonBean.class
+com\epam\lab\rest\bo\BookBO.class
 com\epam\lab\rest\web\HelloWorld.class
+com\epam\lab\rest\web\LibraryService.class
+com\epam\lab\rest\dao\BookDAO.class
+com\epam\lab\rest\model\Book.class
+com\epam\lab\rest\web\LibraryServiceImpl.class

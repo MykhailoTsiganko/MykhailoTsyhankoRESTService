@@ -8,7 +8,9 @@
     <jaxrs:server id="services" address="/">
         <jaxrs:serviceBeans>
             <bean class="com.epam.lab.rest.web.HelloWorld"/>
+            <bean class="com.epam.lab.rest.web.LibraryServiceImpl"/>
         </jaxrs:serviceBeans>
+
         <jaxrs:providers>
             <bean class="org.codehaus.jackson.jaxrs.JacksonJsonProvider"/>
         </jaxrs:providers>

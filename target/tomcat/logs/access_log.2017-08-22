@@ -1,8 +1,0 @@
-127.0.0.1 - - [22/Aug/2017:16:44:40 +0300] "POST /jaxrs-service/hello/jsonBean HTTP/1.1" 200 42 http-bio-63390-exec-1 288
-127.0.0.1 - - [22/Aug/2017:16:44:40 +0300] "GET /jaxrs-service/hello/echo/SierraTangoNevada HTTP/1.1" 200 17 http-bio-63390-exec-3 11
-127.0.0.1 - - [22/Aug/2017:16:51:40 +0300] "POST /jaxrs-service/hello/jsonBean HTTP/1.1" 200 42 http-bio-63571-exec-1 266
-127.0.0.1 - - [22/Aug/2017:16:51:40 +0300] "GET /jaxrs-service/hello/echo/SierraTangoNevada HTTP/1.1" 200 17 http-bio-63571-exec-3 5
-127.0.0.1 - - [22/Aug/2017:16:59:25 +0300] "POST /jaxrs-service/hello/jsonBean HTTP/1.1" 200 42 http-bio-63615-exec-1 277
-127.0.0.1 - - [22/Aug/2017:16:59:25 +0300] "GET /jaxrs-service/hello/echo/SierraTangoNevada HTTP/1.1" 200 17 http-bio-63615-exec-3 4
-127.0.0.1 - - [22/Aug/2017:17:02:46 +0300] "POST /jaxrs-service/hello/jsonBean HTTP/1.1" 200 42 http-bio-63634-exec-1 274
-127.0.0.1 - - [22/Aug/2017:17:02:46 +0300] "GET /jaxrs-service/hello/echo/SierraTangoNevada HTTP/1.1" 200 17 http-bio-63634-exec-3 5

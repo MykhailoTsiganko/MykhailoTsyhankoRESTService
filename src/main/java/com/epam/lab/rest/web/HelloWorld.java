@@ -5,6 +5,7 @@ import javax.ws.rs.POST;
 import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
 @Path("/hello")
@@ -18,11 +19,10 @@ public class HelloWorld {
     }
 
     @POST
-    @Produces("application/json")
-    @Consumes("application/json")
-    @Path("/jsonBean")
-    public Response modifyJson(JsonBean input) {
-        input.setVal2(input.getVal1());
+    @Produces(MediaType.APPLICATION_JSON)
+    @Consumes(MediaType.APPLICATION_JSON)
+    @Path("/jsonBean" )
+    public Response modifyJson(String input) {
         return Response.ok().entity(input).build();
     }
 }

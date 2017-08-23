@@ -1,2 +1,6 @@
-D:\Tsyhanko\workspace\MykhailoTsyhankoRESTService\src\main\java\com\epam\lab\rest\web\JsonBean.java
+D:\Tsyhanko\workspace\MykhailoTsyhankoRESTService\src\main\java\com\epam\lab\rest\web\LibraryService.java
+D:\Tsyhanko\workspace\MykhailoTsyhankoRESTService\src\main\java\com\epam\lab\rest\bo\BookBO.java
+D:\Tsyhanko\workspace\MykhailoTsyhankoRESTService\src\main\java\com\epam\lab\rest\dao\BookDAO.java
+D:\Tsyhanko\workspace\MykhailoTsyhankoRESTService\src\main\java\com\epam\lab\rest\model\Book.java
+D:\Tsyhanko\workspace\MykhailoTsyhankoRESTService\src\main\java\com\epam\lab\rest\web\LibraryServiceImpl.java
 D:\Tsyhanko\workspace\MykhailoTsyhankoRESTService\src\main\java\com\epam\lab\rest\web\HelloWorld.java
